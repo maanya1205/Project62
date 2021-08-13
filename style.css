@@ -1,0 +1,59 @@
+body {
+    background-color: beige;
+}
+
+#hello {
+    color: aqua;
+    font-size: 45px;
+    font-family: fantasy;
+    font-weight: inherit;
+}
+
+#avengers {
+    border-radius: 50px;
+    border: 1px;
+    width: 500px;
+    height: 450px;
+
+
+}
+
+#captain_america {
+    width: 250px;
+    height: 200px;
+}
+
+#iron_man {
+    width: 250px;
+    height: 200px;
+}
+
+#black_pan {
+    width: 250px;
+    height: 200px;
+}
+
+#hulk {
+    width: 250px;
+    height: 200px;
+}
+
+#gamora {
+    width: 250px;
+    height: 200px;
+}
+
+#captain_marvel {
+    width: 250px;
+    height: 200px;
+}
+
+#thor {
+    width: 250px;
+    height: 200px;
+}
+
+#thanos {
+    width: 250px;
+    height: 200px;
+}
